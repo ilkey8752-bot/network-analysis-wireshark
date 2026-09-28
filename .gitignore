@@ -1,0 +1,13 @@
+*.pcap
+*.pcapng
+*.cap
+*.log
+*.key
+*.pem
+.env
+.env.*
+captures/*.png
+captures/*.jpg
+!pcap/.gitkeep
+
+
